@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: YYYY-MM-DD HH:MM:SS +0100
+date: 2022-10-05 05:48:00 +0100
 categories: [welcome, blog]
 tags: [hello]     # TAG names should always be lowercase
 author: 1
